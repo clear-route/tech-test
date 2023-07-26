@@ -1,3 +1,6 @@
+provider "aws" {
+  region = "us-east-1"
+}
 resource "aws_instance" "new_server" {
   count         = 2
   ami           = "ami-0c94855ba95c71c99"
