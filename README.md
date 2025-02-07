@@ -1,3 +1,7 @@
+# 🚫 ClearRoute Tech Tests (Deprecated)
+### Important Update
+This repository has been deprecated. Due to significant advancements in Large Language Models (LLMs) and artificial intelligence technologies, we have evolved our assessment approach beyond traditional take-home technical tests.
+
 # 🧪 Welcome to the ClearRoute Tech Tests 
 
 We appreciate tech tests can often be daunting, too specific, or un-relevant. To address this, we have tried to make these tests relevant to real-world situations and engagements that our QCEs may face every day.  
